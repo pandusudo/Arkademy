@@ -10,7 +10,7 @@ Untuk mengecek validasi username ketik console.log(is_username_valid("input disi
 Untuk mengecek validasi password ketik console.log(is_password_valid("input disini"))
 
 FILE 3.js
-Untuk print segitiga, ketik console.log(printTriangle(3)) dengan parameter jumlah baris yang diinginkan
+Untuk print segitiga, ketik console.log(printTriangle(3)) dengan parameter jumlah baris yang diinginkan. dan pastikan Console dalam keadaan clear
 
 FILE 4.js
 Untuk print angka, ketik console.log(groupNumber("21342187")) dengan parameter string tapi dalam bentuk angka
