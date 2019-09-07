@@ -1,5 +1,4 @@
 # Arkademy
-Untuk Beasiswa Bootcamp Arkademy
 
 Untuk file javascript 1 - 5, bisa dibuka / dicoba di https://es6console.com
 
