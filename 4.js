@@ -1,9 +1,9 @@
 function groupNumber(str){
-  if(str.length < 2){
-  	return str
+  var ret = []
+  var num = str.match(/\d+/g).join("");
+  if(num.length < 2){
+  	return num
   }else{
-    var ret = []
-    var num = str.match(/\d+/g).join("");
     for(var i = 0; i < num.length; i += 3){
       ret.push(num.substr(i, 3))
     }
