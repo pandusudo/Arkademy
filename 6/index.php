@@ -142,7 +142,7 @@ if ($num < 1) {
             <button type="button" data-dismiss="modal" class="close">&times;</button>
           </div>
 
-          <form class="" action="save.php?status=anggota" method="post">
+          <form class="" action="save.php" method="post">
           <div class="modal-body">
             <div class="form-group">
               <label for="nama">Nama</label>
