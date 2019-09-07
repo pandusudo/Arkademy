@@ -20,3 +20,6 @@ Untuk mengecek berapa huruf vokal dalam suatu string ketik console.log(countVowe
 
 FOLDER 6
 Import terlebih dahulu file Arkademy.sql kedalam database. untuk menjalankan, jalankan di localhost dan buka file index.php di browser.
+
+Dan ini adalah screenshot untuk web di folder 6
+![Screenshot](https://github.com/pandusudo/Arkademy/blob/master/6/sc/SC.png)
