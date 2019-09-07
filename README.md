@@ -4,6 +4,7 @@ Untuk file javascript 1 - 5, bisa dibuka / dicoba di https://es6console.com
 
 FILE 1.js
 Untuk menampilkan biodata uncomment script console.log(return_biodata()) untuk menampilkan biodata.
+Berdasarkan yang saya pelajari dan pengalaman saya, JSON itu bisa diibaratkan sebagai pelayan, dia melayani pertukaran data antara sisi client dan server.
 
 FILE 2.js
 Untuk mengecek validasi username ketik console.log(is_username_valid("input disini"))
